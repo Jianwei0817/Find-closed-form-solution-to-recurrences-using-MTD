@@ -1,0 +1,2001 @@
+f(16)=18,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=9*10**n/5000000000000000 must be correct!!!
+Usage of time: 0.5151065930702998 seconds
+************************************
+f(1)=7,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=7*12**n/12 must be correct!!!
+Usage of time: 0.5052646909933287 seconds
+************************************
+f(5)=10,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=5*6**n/3888 must be correct!!!
+Usage of time: 0.5049807807179718 seconds
+************************************
+f(0)=-4,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-4*16**n must be correct!!!
+Usage of time: 0.4968349618341392 seconds
+************************************
+f(10)=-16,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-16*7**n/282475249 must be correct!!!
+Usage of time: 0.49989798478242164 seconds
+************************************
+f(13)=-8,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-8*3**n/1594323 must be correct!!!
+Usage of time: 0.5395302552112753 seconds
+************************************
+f(3)=-14,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-14*15**n/3375 must be correct!!!
+Usage of time: 0.5029494588381453 seconds
+************************************
+f(18)=-11,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-11*15**n/1477891880035400390625 must be correct!!!
+Usage of time: 0.518030387702737 seconds
+************************************
+f(1)=-14,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-14*19**n/19 must be correct!!!
+Usage of time: 0.5036109537396101 seconds
+************************************
+f(1)=18,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=9*4**n/2 must be correct!!!
+Usage of time: 0.5273878778974108 seconds
+************************************
+f(4)=-10,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-10**n/1000 must be correct!!!
+Usage of time: 0.5064580765576352 seconds
+************************************
+f(14)=8,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/1389000853194752 must be correct!!!
+Usage of time: 0.5032840559197211 seconds
+************************************
+f(11)=-6,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-2*15**n/2883251953125 must be correct!!!
+Usage of time: 0.5425615187050425 seconds
+************************************
+f(7)=-20,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-20*7**n/823543 must be correct!!!
+Usage of time: 0.5038666333887818 seconds
+************************************
+f(10)=11,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=11*15**n/576650390625 must be correct!!!
+Usage of time: 0.5181291948945841 seconds
+************************************
+f(13)=-11,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-11*9**n/2541865828329 must be correct!!!
+Usage of time: 0.514902883437685 seconds
+************************************
+f(19)=18,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=9*14**n/2988151979474457198592 must be correct!!!
+Usage of time: 0.5025253578392608 seconds
+************************************
+f(18)=17,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=17*2**n/262144 must be correct!!!
+Usage of time: 0.5052351771568055 seconds
+************************************
+f(17)=2,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=2*5**n/762939453125 must be correct!!!
+Usage of time: 0.5507525707513992 seconds
+************************************
+f(11)=-3,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-3**n/59049 must be correct!!!
+Usage of time: 0.5181808441085991 seconds
+************************************
+f(18)=-19,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-19*13**n/112455406951957393129 must be correct!!!
+Usage of time: 0.5109351972390073 seconds
+************************************
+f(18)=-8,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-8*13**n/112455406951957393129 must be correct!!!
+Usage of time: 0.4765474072415259 seconds
+************************************
+f(14)=-1,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-19**n/799006685782884121 must be correct!!!
+Usage of time: 0.5100064737958974 seconds
+************************************
+f(4)=-12,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-6**n/108 must be correct!!!
+Usage of time: 0.514990462539572 seconds
+************************************
+f(1)=16,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=16*3**n/3 must be correct!!!
+Usage of time: 0.5674416829046436 seconds
+************************************
+f(15)=-16,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-16*17**n/2862423051509815793 must be correct!!!
+Usage of time: 0.5874899187791698 seconds
+************************************
+f(1)=-6,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-2*9**n/3 must be correct!!!
+Usage of time: 0.5258435343204155 seconds
+************************************
+f(4)=12,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=12*17**n/83521 must be correct!!!
+Usage of time: 0.502801568852874 seconds
+************************************
+f(17)=0,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06809740335984316 seconds
+************************************
+f(1)=-2,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-2**n must be correct!!!
+Usage of time: 0.49730172957498553 seconds
+************************************
+f(0)=16,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=16*11**n must be correct!!!
+Usage of time: 0.49515973080815456 seconds
+************************************
+f(11)=16,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=16*5**n/48828125 must be correct!!!
+Usage of time: 0.5009839014853696 seconds
+************************************
+f(7)=-3,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-3*5**n/78125 must be correct!!!
+Usage of time: 0.5426417193477846 seconds
+************************************
+f(4)=2,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/19208 must be correct!!!
+Usage of time: 0.611970042172743 seconds
+************************************
+f(6)=-19,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-19**n/2476099 must be correct!!!
+Usage of time: 0.545650526661575 seconds
+************************************
+f(4)=-5,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-5*8**n/4096 must be correct!!!
+Usage of time: 0.4997927615390836 seconds
+************************************
+f(19)=4,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=4*17**n/239072435685151324847153 must be correct!!!
+Usage of time: 0.5021974976115757 seconds
+************************************
+f(10)=-7,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-7*15**n/576650390625 must be correct!!!
+Usage of time: 0.5318723770379847 seconds
+************************************
+f(12)=-8,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-18**n/144603922678272 must be correct!!!
+Usage of time: 0.5029533084689888 seconds
+************************************
+f(1)=-7,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-7*15**n/15 must be correct!!!
+Usage of time: 0.5058315491363601 seconds
+************************************
+f(6)=6,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=3*8**n/131072 must be correct!!!
+Usage of time: 0.5476645252025492 seconds
+************************************
+f(18)=17,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=17*5**n/3814697265625 must be correct!!!
+Usage of time: 0.5146629231145425 seconds
+************************************
+f(4)=3,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=3*7**n/2401 must be correct!!!
+Usage of time: 0.5218373518133035 seconds
+************************************
+f(5)=6,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=6*5**n/3125 must be correct!!!
+Usage of time: 0.5058087721538413 seconds
+************************************
+f(16)=-10,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-10*11**n/45949729863572161 must be correct!!!
+Usage of time: 0.5006300562495198 seconds
+************************************
+f(13)=17,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=17*18**n/20822964865671168 must be correct!!!
+Usage of time: 0.5038274954750932 seconds
+************************************
+f(9)=19,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=19*13**n/10604499373 must be correct!!!
+Usage of time: 0.5118334444379684 seconds
+************************************
+f(10)=14,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=7*2**n/512 must be correct!!!
+Usage of time: 0.5476497682842592 seconds
+************************************
+f(13)=-12,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-4*3**n/531441 must be correct!!!
+Usage of time: 0.5013816966734908 seconds
+************************************
+f(12)=-2,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-4**n/8388608 must be correct!!!
+Usage of time: 0.4975022311818975 seconds
+************************************
+f(6)=-7,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-7 must be correct!!!
+Usage of time: 0.07537609289414604 seconds
+************************************
+f(5)=-8,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-8*17**n/1419857 must be correct!!!
+Usage of time: 0.4961824494046141 seconds
+************************************
+f(9)=13,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=13*16**n/68719476736 must be correct!!!
+Usage of time: 0.49846078926418613 seconds
+************************************
+f(5)=-16,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-16*17**n/1419857 must be correct!!!
+Usage of time: 0.4976398554848629 seconds
+************************************
+f(1)=18,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=2*9**n must be correct!!!
+Usage of time: 0.5383407192778691 seconds
+************************************
+f(15)=-3,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-3*4**n/1073741824 must be correct!!!
+Usage of time: 0.49746822610939034 seconds
+************************************
+f(18)=-16,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-16**n/295147905179352825856 must be correct!!!
+Usage of time: 0.49686062603979053 seconds
+************************************
+f(11)=2,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/2024782584832 must be correct!!!
+Usage of time: 0.4971955439240219 seconds
+************************************
+f(0)=0,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06834313812925075 seconds
+************************************
+f(15)=-20,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-5*12**n/3851755393646592 must be correct!!!
+Usage of time: 0.5008048936507521 seconds
+************************************
+f(19)=-19,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-19*18**n/708235345355337676357632 must be correct!!!
+Usage of time: 0.5015886143318085 seconds
+************************************
+f(4)=4,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/5184 must be correct!!!
+Usage of time: 0.5433385025320945 seconds
+************************************
+f(4)=18,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=18*11**n/14641 must be correct!!!
+Usage of time: 0.4967804253970485 seconds
+************************************
+f(5)=12,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=12*13**n/371293 must be correct!!!
+Usage of time: 0.5000436291496726 seconds
+************************************
+f(12)=-11,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-11*2**n/4096 must be correct!!!
+Usage of time: 0.49624115627511856 seconds
+************************************
+f(5)=-13,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-13*9**n/59049 must be correct!!!
+Usage of time: 0.5103863040400256 seconds
+************************************
+f(5)=-8,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-8*11**n/161051 must be correct!!!
+Usage of time: 0.49635279556986234 seconds
+************************************
+f(13)=1,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=17**n/9904578032905937 must be correct!!!
+Usage of time: 0.5068799319385562 seconds
+************************************
+f(0)=-12,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-12*13**n must be correct!!!
+Usage of time: 0.5387542337919058 seconds
+************************************
+f(12)=-8,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-14**n/7086739046912 must be correct!!!
+Usage of time: 0.4984072152347494 seconds
+************************************
+f(11)=5,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=5*11**n/285311670611 must be correct!!!
+Usage of time: 0.5112242403555456 seconds
+************************************
+f(8)=-20,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-5*18**n/2754990144 must be correct!!!
+Usage of time: 0.5017592812995986 seconds
+************************************
+f(18)=10,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=5*2**n/131072 must be correct!!!
+Usage of time: 0.49807454296865217 seconds
+************************************
+f(9)=4,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=4*7**n/40353607 must be correct!!!
+Usage of time: 0.5040658517854126 seconds
+************************************
+f(8)=9,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=9*14**n/1475789056 must be correct!!!
+Usage of time: 0.49899492554493463 seconds
+************************************
+f(4)=5,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=5*17**n/83521 must be correct!!!
+Usage of time: 0.5643420884632633 seconds
+************************************
+f(19)=-2,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-2**n/262144 must be correct!!!
+Usage of time: 0.49780731442695014 seconds
+************************************
+f(16)=-12,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-12*5**n/152587890625 must be correct!!!
+Usage of time: 0.5046628653700509 seconds
+************************************
+f(7)=-15,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-15*19**n/893871739 must be correct!!!
+Usage of time: 0.5200937898396774 seconds
+************************************
+f(16)=-17,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-17*9**n/1853020188851841 must be correct!!!
+Usage of time: 0.5107520189710044 seconds
+************************************
+f(11)=13,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=13**n/137858491849 must be correct!!!
+Usage of time: 0.5131035018167154 seconds
+************************************
+f(1)=11,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=11*19**n/19 must be correct!!!
+Usage of time: 0.5174317701051905 seconds
+************************************
+f(9)=-7,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-7*11**n/2357947691 must be correct!!!
+Usage of time: 0.5597360051482383 seconds
+************************************
+f(7)=-18,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-9*14**n/52706752 must be correct!!!
+Usage of time: 0.5017605645098797 seconds
+************************************
+f(1)=5,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=5 must be correct!!!
+Usage of time: 0.0753488246756433 seconds
+************************************
+f(0)=15,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=15*12**n must be correct!!!
+Usage of time: 0.49248904940424154 seconds
+************************************
+f(14)=-7,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-7*16**n/72057594037927936 must be correct!!!
+Usage of time: 0.4997985359854056 seconds
+************************************
+f(6)=-15,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-15*7**n/117649 must be correct!!!
+Usage of time: 0.5153070946772118 seconds
+************************************
+f(17)=13,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=13*15**n/98526125335693359375 must be correct!!!
+Usage of time: 0.5177294748910981 seconds
+************************************
+f(1)=0,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06632625236511558 seconds
+************************************
+f(0)=-9,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-9*5**n must be correct!!!
+Usage of time: 0.5575311290774607 seconds
+************************************
+f(0)=-9,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-9*13**n must be correct!!!
+Usage of time: 0.5040135609663139 seconds
+************************************
+f(3)=16,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=16*15**n/3375 must be correct!!!
+Usage of time: 0.501617486563191 seconds
+************************************
+f(6)=-8,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-14**n/941192 must be correct!!!
+Usage of time: 0.4977832542340934 seconds
+************************************
+f(2)=-15,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-15*11**n/121 must be correct!!!
+Usage of time: 0.5156535614538598 seconds
+************************************
+f(19)=1,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=8**n/144115188075855872 must be correct!!!
+Usage of time: 0.5018070808826565 seconds
+************************************
+f(6)=-9,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-9*10**n/1000000 must be correct!!!
+Usage of time: 0.5026132577436897 seconds
+************************************
+f(4)=-2,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-14**n/19208 must be correct!!!
+Usage of time: 0.5502351162043055 seconds
+************************************
+f(3)=11,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=11*5**n/125 must be correct!!!
+Usage of time: 0.513203592218872 seconds
+************************************
+f(16)=9,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=9*10**n/10000000000000000 must be correct!!!
+Usage of time: 0.5036574701123868 seconds
+************************************
+f(15)=-17,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-17*13**n/51185893014090757 must be correct!!!
+Usage of time: 0.5160994770276375 seconds
+************************************
+f(12)=18,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=18*5**n/244140625 must be correct!!!
+Usage of time: 0.5021448859899351 seconds
+************************************
+f(10)=-8,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-8**n/134217728 must be correct!!!
+Usage of time: 0.4996994079909314 seconds
+************************************
+f(2)=2,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=2*5**n/25 must be correct!!!
+Usage of time: 0.4981480067573898 seconds
+************************************
+f(6)=-3,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-12**n/995328 must be correct!!!
+Usage of time: 0.5529279329855967 seconds
+************************************
+f(4)=15,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=5*6**n/432 must be correct!!!
+Usage of time: 0.500443990758356 seconds
+************************************
+f(8)=5,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=5*2**n/256 must be correct!!!
+Usage of time: 0.49773288823047324 seconds
+************************************
+f(5)=5,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=5*7**n/16807 must be correct!!!
+Usage of time: 0.5140787416326589 seconds
+************************************
+f(19)=2,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=4**n/137438953472 must be correct!!!
+Usage of time: 0.49681443046955565 seconds
+************************************
+f(9)=9,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=9*17**n/118587876497 must be correct!!!
+Usage of time: 0.5187762536804144 seconds
+************************************
+f(1)=-4,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-2*18**n/9 must be correct!!!
+Usage of time: 0.4990478579691171 seconds
+************************************
+f(0)=18,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=18*2**n must be correct!!!
+Usage of time: 0.5424826012725248 seconds
+************************************
+f(16)=-19,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-19*9**n/1853020188851841 must be correct!!!
+Usage of time: 0.5165864553305255 seconds
+************************************
+f(14)=13,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=13*4**n/268435456 must be correct!!!
+Usage of time: 0.5007218057847922 seconds
+************************************
+f(13)=-13,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-13*4**n/67108864 must be correct!!!
+Usage of time: 0.48103607681554195 seconds
+************************************
+f(7)=-18,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-12**n/1990656 must be correct!!!
+Usage of time: 0.49808416704576075 seconds
+************************************
+f(0)=-1,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-16**n must be correct!!!
+Usage of time: 0.48730552146139416 seconds
+************************************
+f(18)=-6,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-6*11**n/5559917313492231481 must be correct!!!
+Usage of time: 0.5569033184459613 seconds
+************************************
+f(8)=-17,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-17*7**n/5764801 must be correct!!!
+Usage of time: 0.517989645776197 seconds
+************************************
+f(8)=4,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=4*9**n/43046721 must be correct!!!
+Usage of time: 0.4998796990358869 seconds
+************************************
+f(9)=-4,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-4 must be correct!!!
+Usage of time: 0.07475116948575078 seconds
+************************************
+f(3)=14,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=14*11**n/1331 must be correct!!!
+Usage of time: 0.49657158292330905 seconds
+************************************
+f(14)=18,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=18 must be correct!!!
+Usage of time: 0.07543447896210864 seconds
+************************************
+f(4)=1,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=18**n/104976 must be correct!!!
+Usage of time: 0.5015071304787284 seconds
+************************************
+f(4)=7,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=7*11**n/14641 must be correct!!!
+Usage of time: 0.5076299683496472 seconds
+************************************
+f(19)=-20,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-5*4**n/68719476736 must be correct!!!
+Usage of time: 0.4986247193779718 seconds
+************************************
+f(0)=-17,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-17*6**n must be correct!!!
+Usage of time: 0.5498761381272743 seconds
+************************************
+f(18)=0,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06851733392534243 seconds
+************************************
+f(13)=10,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=10*11**n/34522712143931 must be correct!!!
+Usage of time: 0.5026148617565127 seconds
+************************************
+f(8)=-15,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-5*3**n/2187 must be correct!!!
+Usage of time: 0.5156554862693383 seconds
+************************************
+f(7)=7,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=7*6**n/279936 must be correct!!!
+Usage of time: 0.5001109976896032 seconds
+************************************
+f(17)=-3,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-3*17**n/827240261886336764177 must be correct!!!
+Usage of time: 0.5155226740049557 seconds
+************************************
+f(2)=5,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=5*4**n/16 must be correct!!!
+Usage of time: 0.5017544692610159 seconds
+************************************
+f(11)=-9,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-9*11**n/285311670611 must be correct!!!
+Usage of time: 0.5591264802632736 seconds
+************************************
+f(7)=-6,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-6 must be correct!!!
+Usage of time: 0.07799897471494432 seconds
+************************************
+f(14)=3,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=3*4**n/268435456 must be correct!!!
+Usage of time: 0.4970470123335531 seconds
+************************************
+f(11)=8,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=8*11**n/285311670611 must be correct!!!
+Usage of time: 0.5043398171810054 seconds
+************************************
+f(11)=11,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=11*8**n/8589934592 must be correct!!!
+Usage of time: 0.49909341193426826 seconds
+************************************
+f(3)=-6,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-2*15**n/1125 must be correct!!!
+Usage of time: 0.49624147707771726 seconds
+************************************
+f(18)=-16,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-4**n/4294967296 must be correct!!!
+Usage of time: 0.49549978153345364 seconds
+************************************
+f(3)=4,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/432 must be correct!!!
+Usage of time: 0.49860675443397895 seconds
+************************************
+f(10)=9,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=9*19**n/6131066257801 must be correct!!!
+Usage of time: 0.5649253075373508 seconds
+************************************
+f(6)=-8,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-14**n/941192 must be correct!!!
+Usage of time: 0.49968561348038065 seconds
+************************************
+f(13)=3,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=3*11**n/34522712143931 must be correct!!!
+Usage of time: 0.5118485221588003 seconds
+************************************
+f(10)=1,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=2**n/1024 must be correct!!!
+Usage of time: 0.49823879388503656 seconds
+************************************
+f(0)=-1,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-12**n must be correct!!!
+Usage of time: 0.4934524195251129 seconds
+************************************
+f(5)=-16,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-16*15**n/759375 must be correct!!!
+Usage of time: 0.5014371955182924 seconds
+************************************
+f(3)=-12,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-3*8**n/128 must be correct!!!
+Usage of time: 0.5538078944380231 seconds
+************************************
+f(4)=-17,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-17*13**n/28561 must be correct!!!
+Usage of time: 0.5118677703130743 seconds
+************************************
+f(0)=-19,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-19*14**n must be correct!!!
+Usage of time: 0.4947279305475263 seconds
+************************************
+f(17)=4,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=4*7**n/232630513987207 must be correct!!!
+Usage of time: 0.4991845198644569 seconds
+************************************
+f(13)=-18,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-18*19**n/42052983462257059 must be correct!!!
+Usage of time: 0.5028484060282494 seconds
+************************************
+f(12)=17,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=17*8**n/68719476736 must be correct!!!
+Usage of time: 0.5025968968125198 seconds
+************************************
+f(13)=16,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=8**n/34359738368 must be correct!!!
+Usage of time: 0.47819376603609953 seconds
+************************************
+f(11)=6,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=6*11**n/285311670611 must be correct!!!
+Usage of time: 0.4864515450172462 seconds
+************************************
+f(10)=9,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/6879707136 must be correct!!!
+Usage of time: 0.5427453385782428 seconds
+************************************
+f(11)=1,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=1 must be correct!!!
+Usage of time: 0.072017610777948 seconds
+************************************
+f(12)=0,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06472897636393782 seconds
+************************************
+f(8)=-15,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-15*16**n/4294967296 must be correct!!!
+Usage of time: 0.5036144825679116 seconds
+************************************
+f(12)=8,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=8*7**n/13841287201 must be correct!!!
+Usage of time: 0.4948668380607728 seconds
+************************************
+f(9)=2,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=10**n/500000000 must be correct!!!
+Usage of time: 0.4987523988012299 seconds
+************************************
+f(17)=-19,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-19*6**n/16926659444736 must be correct!!!
+Usage of time: 0.5003243313993266 seconds
+************************************
+f(1)=2,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=2*7**n/7 must be correct!!!
+Usage of time: 0.5006319810649416 seconds
+************************************
+f(4)=-13,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-13 must be correct!!!
+Usage of time: 0.07600294111796302 seconds
+************************************
+f(2)=19,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=19*16**n/256 must be correct!!!
+Usage of time: 0.5513877598420436 seconds
+************************************
+f(7)=-18,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-9*10**n/5000000 must be correct!!!
+Usage of time: 0.4986205489445297 seconds
+************************************
+f(4)=7,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=7*9**n/6561 must be correct!!!
+Usage of time: 0.5170285212734029 seconds
+************************************
+f(11)=-8,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-8*13**n/1792160394037 must be correct!!!
+Usage of time: 0.4929911054279046 seconds
+************************************
+f(13)=17,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=17*7**n/96889010407 must be correct!!!
+Usage of time: 0.5157562182766355 seconds
+************************************
+f(8)=14,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=7*12**n/214990848 must be correct!!!
+Usage of time: 0.507618740259602 seconds
+************************************
+f(1)=-20,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-4*15**n/3 must be correct!!!
+Usage of time: 0.4973854590459723 seconds
+************************************
+f(2)=-6,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-12**n/24 must be correct!!!
+Usage of time: 0.5554975615796707 seconds
+************************************
+f(8)=6,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=2*15**n/854296875 must be correct!!!
+Usage of time: 0.49740823602860473 seconds
+************************************
+f(12)=2,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/4458050224128 must be correct!!!
+Usage of time: 0.4996124704941849 seconds
+************************************
+f(18)=16,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=16*5**n/3814697265625 must be correct!!!
+Usage of time: 0.48828589411846224 seconds
+************************************
+f(3)=16,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=2*18**n/729 must be correct!!!
+Usage of time: 0.5011500772171757 seconds
+************************************
+f(17)=-18,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-18*17**n/827240261886336764177 must be correct!!!
+Usage of time: 0.49837321016224223 seconds
+************************************
+f(15)=16,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/9723005972363264 must be correct!!!
+Usage of time: 0.5043003584648318 seconds
+************************************
+f(10)=-11,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-11*6**n/60466176 must be correct!!!
+Usage of time: 0.5608424532157414 seconds
+************************************
+f(5)=-19,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-19**n/130321 must be correct!!!
+Usage of time: 0.5090671638678828 seconds
+************************************
+f(18)=8,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=8*5**n/3814697265625 must be correct!!!
+Usage of time: 0.4958889150521486 seconds
+************************************
+f(7)=18,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=9*4**n/8192 must be correct!!!
+Usage of time: 0.5003727725875251 seconds
+************************************
+f(17)=-19,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-19*3**n/129140163 must be correct!!!
+Usage of time: 0.5106047705908736 seconds
+************************************
+f(1)=19,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=19*3**n/3 must be correct!!!
+Usage of time: 0.514280526449852 seconds
+************************************
+f(6)=5,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=5*7**n/117649 must be correct!!!
+Usage of time: 0.5114035689927618 seconds
+************************************
+f(12)=6,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=3*4**n/8388608 must be correct!!!
+Usage of time: 0.49813934508796365 seconds
+************************************
+f(11)=10,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=2*15**n/1729951171875 must be correct!!!
+Usage of time: 0.5567037792467318 seconds
+************************************
+f(11)=13,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=13*6**n/362797056 must be correct!!!
+Usage of time: 0.50156262932353 seconds
+************************************
+f(9)=-18,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-2*9**n/43046721 must be correct!!!
+Usage of time: 0.5027178393818872 seconds
+************************************
+f(8)=2,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=16**n/2147483648 must be correct!!!
+Usage of time: 0.4987950655431632 seconds
+************************************
+f(16)=7,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=7*8**n/281474976710656 must be correct!!!
+Usage of time: 0.4975554844086787 seconds
+************************************
+f(17)=-13,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-13*14**n/30491346729331195904 must be correct!!!
+Usage of time: 0.5027030824635403 seconds
+************************************
+f(15)=-17,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-17*6**n/470184984576 must be correct!!!
+Usage of time: 0.49837032293908123 seconds
+************************************
+f(14)=14,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=14*19**n/799006685782884121 must be correct!!!
+Usage of time: 0.5609922680164345 seconds
+************************************
+f(4)=-9,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-9*13**n/28561 must be correct!!!
+Usage of time: 0.51159797535081 seconds
+************************************
+f(13)=-18,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-18*5**n/1220703125 must be correct!!!
+Usage of time: 0.4957198520971815 seconds
+************************************
+f(1)=-2,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-2*11**n/11 must be correct!!!
+Usage of time: 0.5006092040824228 seconds
+************************************
+f(17)=-6,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-2*3**n/43046721 must be correct!!!
+Usage of time: 0.4953653652561911 seconds
+************************************
+f(18)=-4,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-4*11**n/5559917313492231481 must be correct!!!
+Usage of time: 0.5022706405977715 seconds
+************************************
+f(1)=5,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=5*2**n/2 must be correct!!!
+Usage of time: 0.49787885340026605 seconds
+************************************
+f(1)=16,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=16*17**n/17 must be correct!!!
+Usage of time: 0.5569459851878946 seconds
+************************************
+f(15)=6,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=2*3**n/4782969 must be correct!!!
+Usage of time: 0.4960432210888257 seconds
+************************************
+f(12)=1,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=1 must be correct!!!
+Usage of time: 0.07688867701659774 seconds
+************************************
+f(8)=1,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=1 must be correct!!!
+Usage of time: 0.06162296587109495 seconds
+************************************
+f(5)=-18,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-18*5**n/3125 must be correct!!!
+Usage of time: 0.4934148856242473 seconds
+************************************
+f(11)=8,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=16**n/2199023255552 must be correct!!!
+Usage of time: 0.49453320338687945 seconds
+************************************
+f(14)=2,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=4**n/134217728 must be correct!!!
+Usage of time: 0.49376520203185237 seconds
+************************************
+f(13)=-15,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-15*8**n/549755813888 must be correct!!!
+Usage of time: 0.5007548484496169 seconds
+************************************
+f(9)=-14,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-7*4**n/131072 must be correct!!!
+Usage of time: 0.5032895095634444 seconds
+************************************
+f(8)=17,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=17*4**n/65536 must be correct!!!
+Usage of time: 0.5395392376832433 seconds
+************************************
+f(2)=-18,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-18*13**n/169 must be correct!!!
+Usage of time: 0.503570853418239 seconds
+************************************
+f(18)=1,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=13**n/112455406951957393129 must be correct!!!
+Usage of time: 0.5082905008433727 seconds
+************************************
+f(7)=-7,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-7*16**n/268435456 must be correct!!!
+Usage of time: 0.5006371139060661 seconds
+************************************
+f(8)=1,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/429981696 must be correct!!!
+Usage of time: 0.50308804554885 seconds
+************************************
+f(17)=17,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=17*10**n/100000000000000000 must be correct!!!
+Usage of time: 0.49712849618663313 seconds
+************************************
+f(7)=-13,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-13 must be correct!!!
+Usage of time: 0.07745906398793068 seconds
+************************************
+f(8)=-2,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-2*11**n/214358881 must be correct!!!
+Usage of time: 0.4956669196729422 seconds
+************************************
+f(3)=-11,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-11*6**n/216 must be correct!!!
+Usage of time: 0.5578641221462135 seconds
+************************************
+f(5)=-4,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-4*15**n/759375 must be correct!!!
+Usage of time: 0.5047950360293498 seconds
+************************************
+f(18)=-3,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-6**n/33853318889472 must be correct!!!
+Usage of time: 0.4976542916005542 seconds
+************************************
+f(13)=-4,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-18**n/5205741216417792 must be correct!!!
+Usage of time: 0.49984088192479703 seconds
+************************************
+f(19)=-13,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-13**n/112455406951957393129 must be correct!!!
+Usage of time: 0.5150879865211664 seconds
+************************************
+f(18)=-7,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-7*9**n/150094635296999121 must be correct!!!
+Usage of time: 0.5168039594736342 seconds
+************************************
+f(7)=8,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=8*13**n/62748517 must be correct!!!
+Usage of time: 0.5073585693745031 seconds
+************************************
+f(12)=14,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=14*15**n/129746337890625 must be correct!!!
+Usage of time: 0.5039311147055514 seconds
+************************************
+f(3)=3,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=3*13**n/2197 must be correct!!!
+Usage of time: 0.5776316557711425 seconds
+************************************
+f(8)=17,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=17*5**n/390625 must be correct!!!
+Usage of time: 0.5140267716161588 seconds
+************************************
+f(6)=0,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06876788073327589 seconds
+************************************
+f(6)=2,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=2*9**n/531441 must be correct!!!
+Usage of time: 0.49408889182603843 seconds
+************************************
+f(1)=3,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=3*14**n/14 must be correct!!!
+Usage of time: 0.5021214674022758 seconds
+************************************
+f(13)=-12,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-6**n/1088391168 must be correct!!!
+Usage of time: 0.4981136808822839 seconds
+************************************
+f(9)=-6,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-12**n/859963392 must be correct!!!
+Usage of time: 0.4984149144964931 seconds
+************************************
+f(13)=-18,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-9*14**n/396857386627072 must be correct!!!
+Usage of time: 0.4927402378173156 seconds
+************************************
+f(8)=8,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=8*7**n/5764801 must be correct!!!
+Usage of time: 0.5621939944475685 seconds
+************************************
+f(14)=9,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=9*14**n/11112006825558016 must be correct!!!
+Usage of time: 0.4982853102578133 seconds
+************************************
+f(2)=17,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=17*6**n/36 must be correct!!!
+Usage of time: 0.5041264834713388 seconds
+************************************
+f(13)=17,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=17*4**n/67108864 must be correct!!!
+Usage of time: 0.49783522425059346 seconds
+************************************
+f(5)=-10,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-10*13**n/371293 must be correct!!!
+Usage of time: 0.49715480199745343 seconds
+************************************
+f(5)=-16,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-16*11**n/161051 must be correct!!!
+Usage of time: 0.5017345795016581 seconds
+************************************
+f(14)=-5,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-5*11**n/379749833583241 must be correct!!!
+Usage of time: 0.5009088336837522 seconds
+************************************
+f(2)=16,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=16*5**n/25 must be correct!!!
+Usage of time: 0.5580421675731486 seconds
+************************************
+f(12)=-14,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-7*18**n/578415690713088 must be correct!!!
+Usage of time: 0.4989894719012682 seconds
+************************************
+f(15)=-11,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-11*15**n/437893890380859375 must be correct!!!
+Usage of time: 0.5096577614011153 seconds
+************************************
+f(17)=7,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=7*2**n/131072 must be correct!!!
+Usage of time: 0.49897246936495776 seconds
+************************************
+f(16)=15,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=3*5**n/30517578125 must be correct!!!
+Usage of time: 0.5181994506576757 seconds
+************************************
+f(12)=12,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=12*19**n/2213314919066161 must be correct!!!
+Usage of time: 0.5041980224446547 seconds
+************************************
+f(9)=-7,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-7*3**n/19683 must be correct!!!
+Usage of time: 0.516692961784031 seconds
+************************************
+f(5)=2,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=6**n/3888 must be correct!!!
+Usage of time: 0.5015109801096287 seconds
+************************************
+f(17)=-4,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-4*5**n/762939453125 must be correct!!!
+Usage of time: 0.5621093025687856 seconds
+************************************
+f(19)=-14,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-14*3**n/1162261467 must be correct!!!
+Usage of time: 0.5045720782425178 seconds
+************************************
+f(5)=1,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=9**n/59049 must be correct!!!
+Usage of time: 0.5636305483606634 seconds
+************************************
+f(15)=4,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=8**n/8796093022208 must be correct!!!
+Usage of time: 0.5145965169822944 seconds
+************************************
+f(9)=-1,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-17**n/118587876497 must be correct!!!
+Usage of time: 0.5174195796075196 seconds
+************************************
+f(0)=8,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=8*16**n must be correct!!!
+Usage of time: 0.4942290825495661 seconds
+************************************
+f(13)=-16,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-16*5**n/1220703125 must be correct!!!
+Usage of time: 0.4970062704070983 seconds
+************************************
+f(9)=-19,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-19*6**n/10077696 must be correct!!!
+Usage of time: 0.5665007689637491 seconds
+************************************
+f(2)=19,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=19*14**n/196 must be correct!!!
+Usage of time: 0.5030482660300208 seconds
+************************************
+f(17)=11,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=11*15**n/98526125335693359375 must be correct!!!
+Usage of time: 0.5114070978210066 seconds
+************************************
+f(8)=16,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/92236816 must be correct!!!
+Usage of time: 0.4947035495521277 seconds
+************************************
+f(0)=-19,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-19 must be correct!!!
+Usage of time: 0.07651558362647393 seconds
+************************************
+f(11)=-13,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-13*17**n/34271896307633 must be correct!!!
+Usage of time: 0.5153837664916523 seconds
+************************************
+f(4)=-11,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-11*9**n/6561 must be correct!!!
+Usage of time: 0.511014114671525 seconds
+************************************
+f(2)=14,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=14*13**n/169 must be correct!!!
+Usage of time: 0.5028792030750537 seconds
+************************************
+f(3)=-8,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-8*5**n/125 must be correct!!!
+Usage of time: 0.5583315314922288 seconds
+************************************
+f(17)=4,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=18**n/546477889934674132992 must be correct!!!
+Usage of time: 0.5012681325633253 seconds
+************************************
+f(18)=-20,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-20 must be correct!!!
+Usage of time: 0.07729096344070285 seconds
+************************************
+f(3)=2,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=2*13**n/2197 must be correct!!!
+Usage of time: 0.49911458490390714 seconds
+************************************
+f(3)=13,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=13*9**n/729 must be correct!!!
+Usage of time: 0.5150206179812358 seconds
+************************************
+f(14)=18,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=18 must be correct!!!
+Usage of time: 0.07482270845912353 seconds
+************************************
+f(1)=1,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=4**n/4 must be correct!!!
+Usage of time: 0.491680306122646 seconds
+************************************
+f(16)=-19,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-19*6**n/2821109907456 must be correct!!!
+Usage of time: 0.49522036249408075 seconds
+************************************
+f(10)=-12,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-3*10**n/2500000000 must be correct!!!
+Usage of time: 0.500860071692955 seconds
+************************************
+f(0)=-6,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-6*5**n must be correct!!!
+Usage of time: 0.5573351187065327 seconds
+************************************
+f(12)=15,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=5*9**n/94143178827 must be correct!!!
+Usage of time: 0.51926996883725 seconds
+************************************
+f(5)=-12,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-18**n/157464 must be correct!!!
+Usage of time: 0.4964512819591391 seconds
+************************************
+f(4)=4,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=6**n/324 must be correct!!!
+Usage of time: 0.49639578311439436 seconds
+************************************
+f(1)=-9,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-9*5**n/5 must be correct!!!
+Usage of time: 0.5058732534705541 seconds
+************************************
+f(7)=19,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=19*10**n/10000000 must be correct!!!
+Usage of time: 0.49807999661237545 seconds
+************************************
+f(12)=-9,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-9*16**n/281474976710656 must be correct!!!
+Usage of time: 0.49529510949315636 seconds
+************************************
+f(11)=2,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=2*17**n/34271896307633 must be correct!!!
+Usage of time: 0.500358015669292 seconds
+************************************
+f(13)=-11,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-11*2**n/8192 must be correct!!!
+Usage of time: 0.5626466468752938 seconds
+************************************
+f(13)=-15,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-5*6**n/4353564672 must be correct!!!
+Usage of time: 0.5011754206203136 seconds
+************************************
+f(18)=11,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=11*16**n/4722366482869645213696 must be correct!!!
+Usage of time: 0.49970550323979523 seconds
+************************************
+f(2)=18,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=18*17**n/289 must be correct!!!
+Usage of time: 0.5027248970384335 seconds
+************************************
+f(2)=13,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=13*4**n/16 must be correct!!!
+Usage of time: 0.49273414256850856 seconds
+************************************
+f(11)=4,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=16**n/4398046511104 must be correct!!!
+Usage of time: 0.49757794058865557 seconds
+************************************
+f(5)=-6,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-3*8**n/16384 must be correct!!!
+Usage of time: 0.49784228190713975 seconds
+************************************
+f(2)=19,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=19*12**n/144 must be correct!!!
+Usage of time: 0.5660208483174642 seconds
+************************************
+f(6)=-9,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-9*7**n/117649 must be correct!!!
+Usage of time: 0.5104341036230835 seconds
+************************************
+f(7)=-16,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-16*5**n/78125 must be correct!!!
+Usage of time: 0.4928993558925754 seconds
+************************************
+f(2)=-6,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-2*15**n/75 must be correct!!!
+Usage of time: 0.49738770466399274 seconds
+************************************
+f(14)=12,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=12*17**n/168377826559400929 must be correct!!!
+Usage of time: 0.49218236214630906 seconds
+************************************
+f(11)=3,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=3*11**n/285311670611 must be correct!!!
+Usage of time: 0.5122758311833877 seconds
+************************************
+f(16)=-12,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-12*19**n/288441413567621167681 must be correct!!!
+Usage of time: 0.5013919623557399 seconds
+************************************
+f(15)=-2,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-2*3**n/14348907 must be correct!!!
+Usage of time: 0.4939740445055918 seconds
+************************************
+f(9)=-11,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-11**n/214358881 must be correct!!!
+Usage of time: 0.5799648528703187 seconds
+************************************
+f(1)=-14,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-14*3**n/3 must be correct!!!
+Usage of time: 0.4945473187000289 seconds
+************************************
+f(6)=-9,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-9*10**n/1000000 must be correct!!!
+Usage of time: 0.4962575172062884 seconds
+************************************
+f(16)=-15,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-5*18**n/40479843698864750592 must be correct!!!
+Usage of time: 0.501537285920449 seconds
+************************************
+f(1)=7,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=7*9**n/9 must be correct!!!
+Usage of time: 0.5084621302189021 seconds
+************************************
+f(15)=-7,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-7*2**n/32768 must be correct!!!
+Usage of time: 0.4934989358978896 seconds
+************************************
+f(19)=7,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=7*6**n/609359740010496 must be correct!!!
+Usage of time: 0.4999736941891797 seconds
+************************************
+f(8)=-3,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-3*5**n/390625 must be correct!!!
+Usage of time: 0.5780134108306925 seconds
+************************************
+f(4)=-9,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-9*14**n/38416 must be correct!!!
+Usage of time: 0.5039638365677774 seconds
+************************************
+f(15)=12,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=3*8**n/8796093022208 must be correct!!!
+Usage of time: 0.49548438301002307 seconds
+************************************
+f(15)=0,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.0680287516096314 seconds
+************************************
+f(4)=-12,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-3*2**n/4 must be correct!!!
+Usage of time: 0.4947481411095396 seconds
+************************************
+f(18)=-6,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-3*10**n/500000000000000000 must be correct!!!
+Usage of time: 0.5017846247027364 seconds
+************************************
+f(14)=-15,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-15 must be correct!!!
+Usage of time: 0.07611105158440523 seconds
+************************************
+f(9)=5,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=5 must be correct!!!
+Usage of time: 0.06885032699409521 seconds
+************************************
+f(7)=3,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=3*7**n/823543 must be correct!!!
+Usage of time: 0.5095900720586997 seconds
+************************************
+f(4)=-14,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-14 must be correct!!!
+Usage of time: 0.07532540608792715 seconds
+************************************
+f(8)=-8,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-8*7**n/5764801 must be correct!!!
+Usage of time: 0.4893031590712553 seconds
+************************************
+f(19)=12,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=3*10**n/2500000000000000000 must be correct!!!
+Usage of time: 0.5709307316672607 seconds
+************************************
+f(18)=10,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=10*9**n/150094635296999121 must be correct!!!
+Usage of time: 0.5022959840009094 seconds
+************************************
+f(0)=-16,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-16*5**n must be correct!!!
+Usage of time: 0.4900214360278028 seconds
+************************************
+f(0)=-8,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-8*5**n must be correct!!!
+Usage of time: 0.4665662768487664 seconds
+************************************
+f(19)=4,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=4*13**n/1461920290375446110677 must be correct!!!
+Usage of time: 0.5080101193963174 seconds
+************************************
+f(6)=11,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=11**n/161051 must be correct!!!
+Usage of time: 0.5137175179376641 seconds
+************************************
+f(13)=-14,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-2*7**n/13841287201 must be correct!!!
+Usage of time: 0.492736388186529 seconds
+************************************
+f(14)=1,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=9**n/22876792454961 must be correct!!!
+Usage of time: 0.5101447397040033 seconds
+************************************
+f(11)=9,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=6**n/40310784 must be correct!!!
+Usage of time: 0.50248204949213 seconds
+************************************
+f(5)=15,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=5*9**n/19683 must be correct!!!
+Usage of time: 0.5745089635446448 seconds
+************************************
+f(9)=3,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=6**n/3359232 must be correct!!!
+Usage of time: 0.4999801102405854 seconds
+************************************
+f(12)=-15,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-15*11**n/3138428376721 must be correct!!!
+Usage of time: 0.5086651982463763 seconds
+************************************
+f(0)=5,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=5*5**n must be correct!!!
+Usage of time: 0.5088987425181131 seconds
+************************************
+f(4)=-6,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-3*4**n/128 must be correct!!!
+Usage of time: 0.4942970926946373 seconds
+************************************
+f(9)=-1,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-1 must be correct!!!
+Usage of time: 0.07221073392571498 seconds
+************************************
+f(17)=-12,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-12*5**n/762939453125 must be correct!!!
+Usage of time: 0.4983857214625118 seconds
+************************************
+f(16)=6,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/30814043149172736 must be correct!!!
+Usage of time: 0.4985644084945875 seconds
+************************************
+f(14)=4,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=4 must be correct!!!
+Usage of time: 0.07574405344314528 seconds
+************************************
+f(16)=-18,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-18*5**n/152587890625 must be correct!!!
+Usage of time: 0.5644014369388515 seconds
+************************************
+f(14)=5,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=5*3**n/4782969 must be correct!!!
+Usage of time: 0.5081538389481466 seconds
+************************************
+f(15)=-4,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-4**n/268435456 must be correct!!!
+Usage of time: 0.4973071832187088 seconds
+************************************
+f(11)=18,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=9*8**n/4294967296 must be correct!!!
+Usage of time: 0.5076354219933137 seconds
+************************************
+f(0)=19,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=19*5**n must be correct!!!
+Usage of time: 0.5160353165134666 seconds
+************************************
+f(10)=7,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=7*19**n/6131066257801 must be correct!!!
+Usage of time: 0.5102198075056208 seconds
+************************************
+f(17)=-11,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-11*12**n/2218611106740436992 must be correct!!!
+Usage of time: 0.496085887830759 seconds
+************************************
+f(16)=-20,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-20*9**n/1853020188851841 must be correct!!!
+Usage of time: 0.5525157016818412 seconds
+************************************
+f(18)=-20,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-5*8**n/4503599627370496 must be correct!!!
+Usage of time: 0.4856578794565394 seconds
+************************************
+f(12)=12,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=12*7**n/13841287201 must be correct!!!
+Usage of time: 0.4994100440718512 seconds
+************************************
+f(4)=-20,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-20*3**n/81 must be correct!!!
+Usage of time: 0.4999403307218131 seconds
+************************************
+f(13)=5,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=5*4**n/67108864 must be correct!!!
+Usage of time: 0.49928717668711897 seconds
+************************************
+f(13)=-14,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-7*18**n/10411482432835584 must be correct!!!
+Usage of time: 0.5008299162512344 seconds
+************************************
+f(10)=-3,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-3 must be correct!!!
+Usage of time: 0.07780681397491662 seconds
+************************************
+f(8)=-12,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-12*17**n/6975757441 must be correct!!!
+Usage of time: 0.4973453587246581 seconds
+************************************
+f(0)=7,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=7*12**n must be correct!!!
+Usage of time: 0.48876260673904426 seconds
+************************************
+f(1)=-17,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-17*19**n/19 must be correct!!!
+Usage of time: 0.5095814103892167 seconds
+************************************
+f(18)=-10,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-10*17**n/14063084452067724991009 must be correct!!!
+Usage of time: 0.573646967036268 seconds
+************************************
+f(4)=-16,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-16**n/4096 must be correct!!!
+Usage of time: 0.4955880022404813 seconds
+************************************
+f(14)=-18,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-18*13**n/3937376385699289 must be correct!!!
+Usage of time: 0.49143810018148315 seconds
+************************************
+f(7)=14,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=7*10**n/5000000 must be correct!!!
+Usage of time: 0.50015751406238 seconds
+************************************
+f(0)=-18,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-18*18**n must be correct!!!
+Usage of time: 0.49362308649284614 seconds
+************************************
+f(3)=17,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=17 must be correct!!!
+Usage of time: 0.074669044027587 seconds
+************************************
+f(8)=-3,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-3 must be correct!!!
+Usage of time: 0.06752412916534922 seconds
+************************************
+f(1)=-19,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-19*9**n/9 must be correct!!!
+Usage of time: 0.5049888007822574 seconds
+************************************
+f(18)=13,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=13*4**n/68719476736 must be correct!!!
+Usage of time: 0.49456303802605817 seconds
+************************************
+f(10)=12,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=4*3**n/19683 must be correct!!!
+Usage of time: 0.5675934225207584 seconds
+************************************
+f(0)=-5,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-5*3**n must be correct!!!
+Usage of time: 0.4970787717880967 seconds
+************************************
+f(12)=-6,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-6*17**n/582622237229761 must be correct!!!
+Usage of time: 0.5038284578828325 seconds
+************************************
+f(13)=-17,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-17*10**n/10000000000000 must be correct!!!
+Usage of time: 0.4973549828017667 seconds
+************************************
+f(11)=2,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=6**n/181398528 must be correct!!!
+Usage of time: 0.4966065504035555 seconds
+************************************
+f(19)=-4,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-8**n/36028797018963968 must be correct!!!
+Usage of time: 0.48864455139289475 seconds
+************************************
+f(9)=15,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=15*11**n/2357947691 must be correct!!!
+Usage of time: 0.5159936121792157 seconds
+************************************
+f(8)=5,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=5*16**n/4294967296 must be correct!!!
+Usage of time: 0.56550275216523 seconds
+************************************
+f(11)=-6,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-2*15**n/2883251953125 must be correct!!!
+Usage of time: 0.49717533336195174 seconds
+************************************
+f(0)=19,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=19*5**n must be correct!!!
+Usage of time: 0.5007314298619576 seconds
+************************************
+f(6)=-7,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-7*2**n/64 must be correct!!!
+Usage of time: 0.4901792708927246 seconds
+************************************
+f(11)=-16,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-18**n/4016775629952 must be correct!!!
+Usage of time: 0.49225037229138024 seconds
+************************************
+f(8)=16,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=8**n/1048576 must be correct!!!
+Usage of time: 0.5015222081996171 seconds
+************************************
+f(9)=-6,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-6**n/1679616 must be correct!!!
+Usage of time: 0.4962331362108898 seconds
+************************************
+f(13)=-5,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-5*17**n/9904578032905937 must be correct!!!
+Usage of time: 0.5137175179376641 seconds
+************************************
+f(4)=-4,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-4*3**n/81 must be correct!!!
+Usage of time: 0.49682790417750766 seconds
+************************************
+f(6)=-5,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-10**n/200000 must be correct!!!
+Usage of time: 0.5759400638140164 seconds
+************************************
+f(13)=-11,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-11**n/3138428376721 must be correct!!!
+Usage of time: 0.5051251418749416 seconds
+************************************
+f(4)=9,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=9*2**n/16 must be correct!!!
+Usage of time: 0.49714966915632886 seconds
+************************************
+f(5)=3,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=18**n/629856 must be correct!!!
+Usage of time: 0.49891504570473444 seconds
+************************************
+f(15)=18,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=9*14**n/77784047778906112 must be correct!!!
+Usage of time: 0.4918368577772867 seconds
+************************************
+f(14)=17,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=17**n/9904578032905937 must be correct!!!
+Usage of time: 0.5121333948418965 seconds
+************************************
+f(14)=-8,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-8*3**n/4782969 must be correct!!!
+Usage of time: 0.4989490507772416 seconds
+************************************
+f(16)=0,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.06817247116146063 seconds
+************************************
+f(12)=-6,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-3*14**n/28346956187648 must be correct!!!
+Usage of time: 0.5710930577681665 seconds
+************************************
+f(13)=16,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=16*9**n/2541865828329 must be correct!!!
+Usage of time: 0.49696424527024874 seconds
+************************************
+f(6)=11,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=11*19**n/47045881 must be correct!!!
+Usage of time: 0.507016914636381 seconds
+************************************
+f(6)=-13,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-13*11**n/1771561 must be correct!!!
+Usage of time: 0.5141685663525664 seconds
+************************************
+f(19)=-16,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-16*9**n/1350851717672992089 must be correct!!!
+Usage of time: 0.49722794498359235 seconds
+************************************
+f(11)=-5,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-5*17**n/34271896307633 must be correct!!!
+Usage of time: 0.5114741455583953 seconds
+************************************
+f(10)=5,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=5*11**n/25937424601 must be correct!!!
+Usage of time: 0.5078801943550388 seconds
+************************************
+f(0)=16,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=16*3**n must be correct!!!
+Usage of time: 0.48945810671301615 seconds
+************************************
+f(0)=19,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=19*2**n must be correct!!!
+Usage of time: 0.564168855074854 seconds
+************************************
+f(17)=-6,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-3*10**n/50000000000000000 must be correct!!!
+Usage of time: 0.4953323225913664 seconds
+************************************
+f(6)=7,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=7 must be correct!!!
+Usage of time: 0.07646585922799432 seconds
+************************************
+f(4)=2,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=2*15**n/50625 must be correct!!!
+Usage of time: 0.4974630932682089 seconds
+************************************
+f(2)=-12,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-3*10**n/25 must be correct!!!
+Usage of time: 0.4930969702763264 seconds
+************************************
+f(19)=-11,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-11*6**n/609359740010496 must be correct!!!
+Usage of time: 0.5003615444975935 seconds
+************************************
+f(15)=19,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=19*16**n/1152921504606846976 must be correct!!!
+Usage of time: 0.49604450429905 seconds
+************************************
+f(1)=-10,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-5*8**n/4 must be correct!!!
+Usage of time: 0.501896905602564 seconds
+************************************
+f(0)=19,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=19*14**n must be correct!!!
+Usage of time: 0.4855269920075216 seconds
+************************************
+f(3)=0,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.0677958489430921 seconds
+************************************
+f(2)=-16,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-16**n/16 must be correct!!!
+Usage of time: 0.4912266912872383 seconds
+************************************
+f(10)=19,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=19*14**n/289254654976 must be correct!!!
+Usage of time: 0.5637405836425273 seconds
+************************************
+f(2)=-17,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-17 must be correct!!!
+Usage of time: 0.07709142424153015 seconds
+************************************
+f(6)=-14,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-7*16**n/8388608 must be correct!!!
+Usage of time: 0.4983860422651105 seconds
+************************************
+f(18)=-19,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-19*12**n/26623333280885243904 must be correct!!!
+Usage of time: 0.4999063256492491 seconds
+************************************
+f(16)=-14,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-14*15**n/6568408355712890625 must be correct!!!
+Usage of time: 0.4952303073737312 seconds
+************************************
+f(0)=-15,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-15*11**n must be correct!!!
+Usage of time: 0.5063294347266378 seconds
+************************************
+f(11)=13,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=13*4**n/4194304 must be correct!!!
+Usage of time: 0.495185715816433 seconds
+************************************
+f(19)=-20,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-20*9**n/1350851717672992089 must be correct!!!
+Usage of time: 0.4904275720826945 seconds
+************************************
+f(13)=19,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=19 must be correct!!!
+Usage of time: 0.07579826907760889 seconds
+************************************
+f(18)=7,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=7*15**n/1477891880035400390625 must be correct!!!
+Usage of time: 0.5835886387127402 seconds
+************************************
+f(16)=2,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=8**n/140737488355328 must be correct!!!
+Usage of time: 0.4967820294099283 seconds
+************************************
+f(10)=-12,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-4*15**n/192216796875 must be correct!!!
+Usage of time: 0.5023210066014485 seconds
+************************************
+f(11)=-13,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-13*17**n/34271896307633 must be correct!!!
+Usage of time: 0.5079501293155317 seconds
+************************************
+f(11)=15,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=5*3**n/59049 must be correct!!!
+Usage of time: 0.509739566056794 seconds
+************************************
+f(9)=-6,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-3*4**n/131072 must be correct!!!
+Usage of time: 0.4923899214098242 seconds
+************************************
+f(0)=9,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=9*5**n must be correct!!!
+Usage of time: 0.5040180522022979 seconds
+************************************
+f(11)=-12,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-12*5**n/48828125 must be correct!!!
+Usage of time: 0.4906646451827328 seconds
+************************************
+f(4)=16,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/2401 must be correct!!!
+Usage of time: 0.5821010771908846 seconds
+************************************
+f(18)=-5,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=-5*12**n/26623333280885243904 must be correct!!!
+Usage of time: 0.5043282682884751 seconds
+************************************
+f(18)=9,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=9*10**n/1000000000000000000 must be correct!!!
+Usage of time: 0.49710347358609397 seconds
+************************************
+f(12)=0,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.0677740343682558 seconds
+************************************
+f(12)=19,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=19 must be correct!!!
+Usage of time: 0.0721106435235015 seconds
+************************************
+f(3)=8,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=8*9**n/729 must be correct!!!
+Usage of time: 0.4961936774946025 seconds
+************************************
+f(10)=-18,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-9*4**n/524288 must be correct!!!
+Usage of time: 0.49571086962515665 seconds
+************************************
+f(16)=-3,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-3*16**n/18446744073709551616 must be correct!!!
+Usage of time: 0.4958494563358613 seconds
+************************************
+f(16)=-5,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-5 must be correct!!!
+Usage of time: 0.07236311514691351 seconds
+************************************
+f(0)=-15,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-15*10**n must be correct!!!
+Usage of time: 0.491861559575284 seconds
+************************************
+f(18)=8,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=12**n/3327916660110655488 must be correct!!!
+Usage of time: 0.5007894951273784 seconds
+************************************
+f(8)=7,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=7*8**n/16777216 must be correct!!!
+Usage of time: 0.5716364973235386 seconds
+************************************
+f(2)=-9,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=-9*7**n/49 must be correct!!!
+Usage of time: 0.5090363668210216 seconds
+************************************
+f(12)=14,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=14*9**n/282429536481 must be correct!!!
+Usage of time: 0.4958279625636237 seconds
+************************************
+f(1)=-9,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-3*15**n/5 must be correct!!!
+Usage of time: 0.5124432901255318 seconds
+************************************
+f(6)=-13,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-13**n/371293 must be correct!!!
+Usage of time: 0.5090065321819566 seconds
+************************************
+f(4)=-3,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-3*17**n/83521 must be correct!!!
+Usage of time: 0.5104145346662676 seconds
+************************************
+f(14)=-13,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-13*15**n/29192926025390625 must be correct!!!
+Usage of time: 0.5141980801890895 seconds
+************************************
+f(17)=-6,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-3*8**n/1125899906842624 must be correct!!!
+Usage of time: 0.4953490043250781 seconds
+************************************
+f(13)=-6,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-6*5**n/1220703125 must be correct!!!
+Usage of time: 0.5703811968630816 seconds
+************************************
+f(10)=-12,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-12*11**n/25937424601 must be correct!!!
+Usage of time: 0.5000532532267812 seconds
+************************************
+f(8)=-12,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-3*10**n/25000000 must be correct!!!
+Usage of time: 0.49649138228051015 seconds
+************************************
+f(5)=19,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=19*16**n/1048576 must be correct!!!
+Usage of time: 0.4984678469207324 seconds
+************************************
+f(14)=8,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=6**n/9795520512 must be correct!!!
+Usage of time: 0.49560275915871443 seconds
+************************************
+f(13)=0,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=0 must be correct!!!
+Usage of time: 0.07055956309255862 seconds
+************************************
+f(19)=2,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=2*11**n/61159090448414546291 must be correct!!!
+Usage of time: 0.49768573025249907 seconds
+************************************
+f(19)=10,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=5*12**n/159739999685311463424 must be correct!!!
+Usage of time: 0.5024518940504663 seconds
+************************************
+f(6)=-17,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-17*8**n/262144 must be correct!!!
+Usage of time: 0.5757658680179816 seconds
+************************************
+f(2)=1,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=14**n/196 must be correct!!!
+Usage of time: 0.5036552244944232 seconds
+************************************
+f(10)=16,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=16*7**n/282475249 must be correct!!!
+Usage of time: 0.4968782701811847 seconds
+************************************
+f(11)=-9,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-9**n/3486784401 must be correct!!!
+Usage of time: 0.5106278683759911 seconds
+************************************
+f(19)=-16,f(n+1)-(8)*f(n)
+Congratulations!! The conjecture f(n)=-8**n/9007199254740992 must be correct!!!
+Usage of time: 0.493672169286242 seconds
+************************************
+f(13)=18,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=18*19**n/42052983462257059 must be correct!!!
+Usage of time: 0.5025250370366621 seconds
+************************************
+f(0)=-17,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-17*3**n must be correct!!!
+Usage of time: 0.5025359443240518 seconds
+************************************
+f(7)=-17,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-17*3**n/2187 must be correct!!!
+Usage of time: 0.4871207391804546 seconds
+************************************
+f(6)=-3,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-3**n/243 must be correct!!!
+Usage of time: 0.5578766334464831 seconds
+************************************
+f(13)=-19,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=-19*13**n/302875106592253 must be correct!!!
+Usage of time: 0.4992220537652088 seconds
+************************************
+f(6)=3,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=3*14**n/7529536 must be correct!!!
+Usage of time: 0.49951911694597584 seconds
+************************************
+f(11)=1,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=9**n/31381059609 must be correct!!!
+Usage of time: 0.5108088010260303 seconds
+************************************
+f(8)=-19,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-19*16**n/4294967296 must be correct!!!
+Usage of time: 0.502486540728114 seconds
+************************************
+f(6)=-2,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=-2*15**n/11390625 must be correct!!!
+Usage of time: 0.49418673661017465 seconds
+************************************
+f(15)=-8,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-14**n/19446011944726528 must be correct!!!
+Usage of time: 0.4898026486743561 seconds
+************************************
+f(4)=-8,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=-8*11**n/14641 must be correct!!!
+Usage of time: 0.4960688852944486 seconds
+************************************
+f(1)=-3,f(n+1)-(4)*f(n)
+Congratulations!! The conjecture f(n)=-3*4**n/4 must be correct!!!
+Usage of time: 0.49009714543456084 seconds
+************************************
+f(16)=-4,f(n+1)-(17)*f(n)
+Congratulations!! The conjecture f(n)=-4*17**n/48661191875666868481 must be correct!!!
+Usage of time: 0.5733566407094486 seconds
+************************************
+f(13)=11,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=11*2**n/8192 must be correct!!!
+Usage of time: 0.4989958879526739 seconds
+************************************
+f(16)=5,f(n+1)-(12)*f(n)
+Congratulations!! The conjecture f(n)=5*12**n/184884258895036416 must be correct!!!
+Usage of time: 0.5020601941112091 seconds
+************************************
+f(19)=-6,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=-3*14**n/2988151979474457198592 must be correct!!!
+Usage of time: 0.4968060896027282 seconds
+************************************
+f(7)=-7,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-7*19**n/893871739 must be correct!!!
+Usage of time: 0.5207658712260468 seconds
+************************************
+f(7)=14,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=7*18**n/306110016 must be correct!!!
+Usage of time: 0.4938877486139859 seconds
+************************************
+f(0)=-18,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-18*10**n must be correct!!!
+Usage of time: 0.4899107591407983 seconds
+************************************
+f(16)=-6,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-6*5**n/152587890625 must be correct!!!
+Usage of time: 0.49193277774605804 seconds
+************************************
+f(3)=-20,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-20*3**n/27 must be correct!!!
+Usage of time: 0.49841074406305097 seconds
+************************************
+f(8)=-6,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-3*16**n/2147483648 must be correct!!!
+Usage of time: 0.5740992986613946 seconds
+************************************
+f(9)=6,f(n+1)-(7)*f(n)
+Congratulations!! The conjecture f(n)=6*7**n/40353607 must be correct!!!
+Usage of time: 0.499753623625395 seconds
+************************************
+f(1)=11,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=11*9**n/9 must be correct!!!
+Usage of time: 0.5141923057428812 seconds
+************************************
+f(17)=5,f(n+1)-(11)*f(n)
+Congratulations!! The conjecture f(n)=5*11**n/505447028499293771 must be correct!!!
+Usage of time: 0.5132469005659459 seconds
+************************************
+f(1)=-12,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-12 must be correct!!!
+Usage of time: 0.07638052574418452 seconds
+************************************
+f(10)=1,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=16**n/1099511627776 must be correct!!!
+Usage of time: 0.49717180453376386 seconds
+************************************
+f(14)=-14,f(n+1)-(16)*f(n)
+Congratulations!! The conjecture f(n)=-7*16**n/36028797018963968 must be correct!!!
+Usage of time: 0.4792970060778998 seconds
+************************************
+f(7)=-4,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=-6**n/69984 must be correct!!!
+Usage of time: 0.5033588029187968 seconds
+************************************
+f(18)=14,f(n+1)-(13)*f(n)
+Congratulations!! The conjecture f(n)=14*13**n/112455406951957393129 must be correct!!!
+Usage of time: 0.4942836189866284 seconds
+************************************
+f(16)=3,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=3*19**n/288441413567621167681 must be correct!!!
+Usage of time: 0.5938443761062899 seconds
+************************************
+f(13)=-1,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-10**n/10000000000000 must be correct!!!
+Usage of time: 0.49930834965675785 seconds
+************************************
+f(4)=-6,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=-2*9**n/2187 must be correct!!!
+Usage of time: 0.4959511507508978 seconds
+************************************
+f(8)=-5,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-5*18**n/11019960576 must be correct!!!
+Usage of time: 0.49843929549183486 seconds
+************************************
+f(3)=-7,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-7*18**n/5832 must be correct!!!
+Usage of time: 0.49345466514307645 seconds
+************************************
+f(17)=-16,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-2**n/8192 must be correct!!!
+Usage of time: 0.49520335995782716 seconds
+************************************
+f(19)=-15,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-15*2**n/524288 must be correct!!!
+Usage of time: 0.4792148806197929 seconds
+************************************
+f(12)=-2,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-2*19**n/2213314919066161 must be correct!!!
+Usage of time: 0.5064994600892305 seconds
+************************************
+f(17)=13,f(n+1)-(6)*f(n)
+Congratulations!! The conjecture f(n)=13*6**n/16926659444736 must be correct!!!
+Usage of time: 0.5743716600442212 seconds
+************************************
+f(10)=-1,f(n+1)-(3)*f(n)
+Congratulations!! The conjecture f(n)=-3**n/59049 must be correct!!!
+Usage of time: 0.5051504852781363 seconds
+************************************
+f(9)=14,f(n+1)-(15)*f(n)
+Congratulations!! The conjecture f(n)=14*15**n/38443359375 must be correct!!!
+Usage of time: 0.49434521308023704 seconds
+************************************
+f(4)=2,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=2*19**n/130321 must be correct!!!
+Usage of time: 0.5004709381742032 seconds
+************************************
+f(0)=-8,f(n+1)-(5)*f(n)
+Congratulations!! The conjecture f(n)=-8*5**n must be correct!!!
+Usage of time: 0.48661836235419287 seconds
+************************************
+f(4)=18,f(n+1)-(14)*f(n)
+Congratulations!! The conjecture f(n)=9*14**n/19208 must be correct!!!
+Usage of time: 0.49003138090745324 seconds
+************************************
+f(2)=-9,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=-18**n/36 must be correct!!!
+Usage of time: 0.4958629300438133 seconds
+************************************
+f(0)=-5,f(n+1)-(19)*f(n)
+Congratulations!! The conjecture f(n)=-5*19**n must be correct!!!
+Usage of time: 0.504200909667702 seconds
+************************************
+f(3)=-16,f(n+1)-(1)*f(n)
+Congratulations!! The conjecture f(n)=-16 must be correct!!!
+Usage of time: 0.07525867915319395 seconds
+************************************
+f(0)=-13,f(n+1)-(10)*f(n)
+Congratulations!! The conjecture f(n)=-13*10**n must be correct!!!
+Usage of time: 0.5671712463372387 seconds
+************************************
+f(11)=-10,f(n+1)-(2)*f(n)
+Congratulations!! The conjecture f(n)=-5*2**n/1024 must be correct!!!
+Usage of time: 0.49330420873729963 seconds
+************************************
+f(16)=1,f(n+1)-(9)*f(n)
+Congratulations!! The conjecture f(n)=9**n/1853020188851841 must be correct!!!
+Usage of time: 0.49973950831224556 seconds
+************************************
+f(19)=9,f(n+1)-(18)*f(n)
+Congratulations!! The conjecture f(n)=18**n/78692816150593075150848 must be correct!!!
+Usage of time: 0.48435638342573384 seconds
+************************************
+
