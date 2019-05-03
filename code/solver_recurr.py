@@ -6,7 +6,6 @@ Created on Wed Jan  2 19:35:53 2019
 @author: jasonwang
 """
 
-
 from sympy import Function, solve, Symbol,log,factorial
 from sympy import *
 from sympy.abc import c,k,A,B,C,D,E,F,G,H,I,J,K,Q,Y
