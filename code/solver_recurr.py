@@ -237,18 +237,9 @@ def induction_prover(final_conj,m,R_,recurr_expression):
 
 if __name__ == "__main__":
     '''some examples'''
-    #space=conjectureSpace(0)
-    #print(space)
-    #Solve_r(7,-6,f(n+1)-f(n)-5*n**4+4*n**3-3*n**2+2*n-1)
-    #9*f(n)
+
     Solve_r(1,2,f(n+1)-f(n)+(2)*n)
 
-    
-    #Solve_r(0,1,f(n+1)-f(n)-n**4+n**2-3)
-    #Solve_r(0,0,f(n+1)-f(n)-n**3/2+4*n**2)
-    #Solve_r(1,1,f(n+1)-2*f(n)-3**n)
-    
-    ######15次方
     
     
 
